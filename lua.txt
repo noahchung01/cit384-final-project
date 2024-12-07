@@ -1,0 +1,41 @@
+/zofgk-website
+│-- index.html       (Home Page)
+│-- 2022.html        (2022 Page)
+│-- 2023.html        (2023 Page)
+│-- 2024.html        (2024 Page)
+│-- players.html     (Players Page)
+│-- coaches.html     (Coaches Page)
+│-- styles.css       (Global Styles)
+│-- script.js        (JavaScript page)
+│-- assets/          (Images, videos, and fonts)
+    │-- logo.png
+    │-- home_video.mp4
+    |-- about_image.jpg
+    |-- who_is_zofgk.png
+    |-- spring_2022.png
+    |-- msi_2022.png
+    |-- summer_2022.png
+    |-- worlds_2022.png
+    |-- spring_2023.png
+    |-- msi_2023.png
+    |-- summer_2023.png
+    |-- worlds_2023.png
+    |-- spring_2024.jpg
+    |-- msi_2024.jpg
+    |-- summer_2024.jpg
+    |-- worlds_2024.jpg
+    |-- zeus_profile.jpg
+    |-- oner_profile.jpg
+    |-- faker_profile.jpg
+    |-- guma_profile.jpg
+    |-- keria_profile.jpg
+    |-- bengi_profile.jpg
+    |-- kkoma_profile.jpg
+    |-- tom_profile.jpg
+    |-- sky_profile.jpg
+    |-- roach_profile.png
+    |-- topicon.png
+    |-- junicon.png
+    |-- midicon.png
+    |-- boticon.png
+    |-- supicon.png
