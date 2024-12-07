@@ -199,17 +199,17 @@ header {
     box-sizing: border-box; /* Ensure padding is included in the width */
 }
 .who img {
-    max-width: 11000px; /* Larger image */
+    max-width: 700px; /* Larger image */
     height: auto;
     margin-top: 65px;
-    margin-left: 30px; /* More spacing */
+    margin-left: 100px; /* More spacing */
     margin-right: 30px;
 }
 
 .who h2 {
     font-size: 6rem; /* Larger heading text */
     text-transform: uppercase;
-    margin-right: 80px;
+    margin-right: 150px;
     margin-top: 55px;
     margin-bottom: 5px;
 }
