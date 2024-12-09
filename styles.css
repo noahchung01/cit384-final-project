@@ -187,19 +187,16 @@ header {
 .who {
     background-color: #000000; /* Black background */
     color: #FFFFFF; /* White text */
-    display: flex; /* Create a flexbox layout */
-    flex-direction: row; /* Image on the left, text on the right */
+    display: flex; /* Two-column layout */
+    flex-direction: row;
     align-items: center;
-    justify-content: space-between;
-    padding: 60px 60px; /* Add padding around the section */
-    margin-top: 0; /* Adjust spacing between sections */
-    border-top: 10px solid #E2012D; /* Red border at the top */
-    border-bottom: 75px solid #E2012D; /* Red bottom border color */
-    width: 100%;
-    box-sizing: border-box; /* Ensure padding is included in the width */
+    justify-content: center;
+    padding: 60px 20px; /* Add space around the section */
+    margin-top: 0; /* Adjust spacing for consistency */
+    border-bottom: 150px solid #E2012D; /* Red separator at the bottom */
 }
 .who img {
-    max-width: 1100px; /* Larger image */
+    max-width: 1200px; /* Larger image */
     height: auto;
     margin-top: 65px;
     margin-left: 30px; /* More spacing */
@@ -207,18 +204,21 @@ header {
 }
 
 .who h2 {
-    font-size: 6rem; /* Larger heading text */
-    text-transform: uppercase;
-    margin-right: 80px;
-    margin-top: 55px;
+    font-size: 5.6rem; /* Larger heading text */
     margin-bottom: 5px;
+    text-transform: uppercase;
+    padding-left: 30px; /* More spacing between text and image */
+    margin-right: 80px;
+    margin-top: 25px;
 }
 
 .who p {
     font-size: 2rem; /* Larger body text */
     line-height: 1.2;
-    max-width: 600px;
-    padding-left: 10px; /* More spacing */
+    max-width: 500px;
+    margin: 0;
+    padding-left: 30px; /* More spacing between text and image */
+    margin-right: 80px;
 }
 
 /* Footer Styling */
