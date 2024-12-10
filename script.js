@@ -28,14 +28,3 @@ document.addEventListener("DOMContentLoaded", () => {
     });
 });
 
-document.addEventListener("DOMContentLoaded", () => {
-    const menuItems = document.querySelectorAll(".nav-menu li a");
-
-    menuItems.forEach(item => {
-        if (item.href === window.location.href) {
-            item.classList.add("active");
-        } else {
-            item.classList.remove("active");
-        }
-    });
-});
