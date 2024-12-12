@@ -7,7 +7,7 @@
 │-- coaches.html     (Coaches Page)
 │-- styles.css       (Global Styles)
 │-- script.js        (JavaScript page)
-│-- assets/          (Images, videos, and fonts)
+│-- assets/          (Images, videos)
     │-- logo.png
     │-- home_video.mp4
     |-- about_image.jpg
